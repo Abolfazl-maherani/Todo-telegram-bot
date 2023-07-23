@@ -11,5 +11,9 @@
     "bot"
   ],
   "author": "Abolfazl mahrani",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "telegraf": "^4.12.2"
+  }
 }
