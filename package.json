@@ -11,6 +11,7 @@
   "keywords": [
     "bot"
   ],
+  "type": "commonjs",
   "author": "Abolfazl mahrani",
   "license": "ISC",
   "dependencies": {
